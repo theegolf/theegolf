@@ -1,10 +1,9 @@
-## About Me:
-👋 Hi, I'm Theerathorn!</br>
-🔎 Looking for MERN Stack developer, Data Analyst job</br>
-📂 Repositories created during my journey and learning experiences in tech</br>
-🌱 Currently learning JavaScript, TypeScript, Python and many more...</br>
+## 👋 Hi, I'm Theerathorn!
+🔎 I'm looking for a MERN Stack developer, Data Analyst job</br>
+🌱 I'm currently learning JavaScript, TypeScript, NLP, LLM, Python and many more...</br>
+📂 This Repositories was created during my journey and learning experiences in tech</br>
 
-## Tech:
+## 💻 Tech Stack:
 * Languages:</br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
